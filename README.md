@@ -5,9 +5,11 @@ Throughout my developmental years, I've consistently gravitated towards challeng
 
 I invite you to delve into my professional endeavors and explore the skills and expertise I have cultivated along this journey.
 
+Additionally I love swimming, boxing and inner engineering through observation and consciousness. 
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ledger.png" alt="Ledger" width="25" height="25" /> Socials 
 * [LinkedIn](https://www.linkedin.com/in/rahulsingh-nyc/)
-* [WhatsApp](+12017253969)
+* [WhatsApp](+12017253969) 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Tech Stack
 
@@ -40,5 +42,9 @@ Salesforce |
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Notebook.png" alt="Notebook" width="25" height="25" /> Certified Courses
 * [Generative AI with Large Language Models](https://coursera.org/share/e5cf2b9ea4d0b198615510d299d52b12)
-* [Deep Learning using TensorFlow](https://www.credly.com/badges/1965b0d5-ee13-491a-a27d-48817b989bae)
-* 
+* [LinkedIn - Deep Learning Foundations: Natural Language Processing with TensorFlow](https://www.linkedin.com/learning/certificates/b5506bf101cbec1c8585f72ac8447831c0ff3802a1d14dccb9228d55076a774c?u=57121697)
+* [IBM - Deep Learning using TensorFlow](https://www.credly.com/badges/1965b0d5-ee13-491a-a27d-48817b989bae)
+* [IBM - Data Analysis Using Python](https://www.credly.com/badges/3b2364c5-8871-4b7f-a0a1-5a382fa71201)
+* [IBM - Data Science Foundations](https://www.credly.com/badges/510fb1e0-2a19-47a6-a531-6a5fba360069)
+* [IBM - Data Visualization Using Python](https://www.credly.com/badges/0f9402f3-b57e-4c41-9e02-3b2af4734472)
+* [IBM - Python for Data Science](https://www.credly.com/badges/88b3404b-0a55-4ab9-a64e-3e788857ad98)
