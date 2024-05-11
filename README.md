@@ -38,7 +38,6 @@ Additionally I love swimming, boxing and inner engineering through observation a
 ![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/6b3470a7-3dce-493e-9c89-87688f0178d6)
 ![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/a80c3a5d-e24c-4a17-a3e7-2494b01cbc06)
 ![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/3cbed2b0-a87a-44b9-8929-4a69fc4883f9)
-Salesforce |
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Notebook.png" alt="Notebook" width="25" height="25" /> Certified Courses
 * [Generative AI with Large Language Models](https://coursera.org/share/e5cf2b9ea4d0b198615510d299d52b12)
