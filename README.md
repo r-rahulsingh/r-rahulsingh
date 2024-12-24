@@ -2,7 +2,7 @@
 
 ![Rahul Singh](https://github.com/user-attachments/assets/ee97ea41-a706-4c7e-8ef8-d1d17ff91642)
 
-Hello, I'm Rahul. Full Stack Developer and Data Scientist with 4+ years of experience in api & web application development, data analysis and reporting. Skilled in React.js, Python, Node.js, SQL, Azure and AWS.
+Hello, I'm Rahul. Full Stack Developer and Data Scientist with 4+ years of experience in api & web application development, data analysis and reporting. Skilled in React.js, Python, Node.js, SQL, Azure and AWS. [Portfolio](https://github.com/r-rahulsingh/Portfolio/blob/main/README.md)
 
 - Developing and maintaining full-stack web applications.
 - Integrating AI, ML, and LLM models to enhance innovation and efficiency.
