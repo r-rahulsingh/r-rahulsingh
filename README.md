@@ -22,4 +22,3 @@ Hello, I'm Rahul. Full Stack Developer and Data Scientist with 4+ years of exper
 ![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/7110c0c9-6ef5-4062-be1f-95f0baa44a53)
 ![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/6613b9bb-8c90-4088-bebe-a678897e9440)
 ![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/e1b9c88f-e350-4ad2-a325-5249abfd1633)
-![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/cfc37167-2347-4c11-b9e9-4dc11a376885)
