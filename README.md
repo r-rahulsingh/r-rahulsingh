@@ -10,11 +10,11 @@ Hello, I'm Rahul. Full Stack Developer and Data Scientist with 4+ years of exper
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Tech Stack
 
-[![image](https://skillicons.dev/icons?i=py,java,nodejs,js,ts,react,angular,html,css,c,cpp,matlab,ai&theme=dark)](https://skillicons.dev)
+[![image](https://skillicons.dev/icons?i=py,java,nodejs,js,ts,react,angular,html,css,c,cpp,matlab&theme=light)](https://skillicons.dev)
 
-[![image](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark)](https://skillicons.dev)
+[![image](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light)](https://skillicons.dev)
 
-[![image](https://skillicons.dev/icons?i=aws,azure&theme=dark)](https://skillicons.dev)
+[![image](https://skillicons.dev/icons?i=aws,azure&theme=light)](https://skillicons.dev)
 
 ![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/d6e61cea-1db6-4050-be87-d0ecd722a637)
 ![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/ce62860d-35c1-4e6f-8af6-10e99cc87b68)
