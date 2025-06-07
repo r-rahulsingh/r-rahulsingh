@@ -2,7 +2,7 @@
 
 ![Rahul Singh](https://github.com/user-attachments/assets/ee97ea41-a706-4c7e-8ef8-d1d17ff91642)
 
-Hello, I'm Rahul. Experienced Developer and Data Scientist with experience in api, data analysis and reporting. Skilled in React.js, Python, Node, SQL, Azure and AWS. [Portfolio](https://github.com/r-rahulsingh/Portfolio/blob/main/README.md)
+Hello, I'm Rahul. Experienced Developer and Data Scientist with experience in api, data analysis and reporting. Skilled in Python, SQL, Data Analysis, Machine Learning, LLM, React, Node Azure and AWS. [Portfolio](https://github.com/r-rahulsingh/Portfolio/blob/main/README.md)
 
 - Developing and maintaining full-stack web applications.
 - Integrating AI, ML, and LLM models to enhance innovation and efficiency.
@@ -14,7 +14,8 @@ Hello, I'm Rahul. Experienced Developer and Data Scientist with experience in ap
 
 [![image](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light)](https://skillicons.dev)
 
-[![image](https://skillicons.dev/icons?i=aws,azure&theme=light)](https://skillicons.dev)
+[![image](https://skillicons.dev/icons?i=aws,azure&theme=light)](https://skillicons.dev) 
+
 
 ![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/d6e61cea-1db6-4050-be87-d0ecd722a637)
 ![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/ce62860d-35c1-4e6f-8af6-10e99cc87b68)
@@ -22,3 +23,6 @@ Hello, I'm Rahul. Experienced Developer and Data Scientist with experience in ap
 ![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/7110c0c9-6ef5-4062-be1f-95f0baa44a53)
 ![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/6613b9bb-8c90-4088-bebe-a678897e9440)
 ![image](https://github.com/r-rahulsingh/RahulSingh/assets/145414121/e1b9c88f-e350-4ad2-a325-5249abfd1633)
+
+![image](https://github.com/user-attachments/assets/cf98d4a4-b8dc-4f86-aae9-6e591639e14a)
+![image](https://github.com/user-attachments/assets/b3e7aed9-e000-43d3-b9d2-06e17db4ee94)
