@@ -2,7 +2,7 @@
 
 ![Rahul Singh](https://github.com/user-attachments/assets/ee97ea41-a706-4c7e-8ef8-d1d17ff91642)
 
-Hello, I'm Rahul. Experienced Developer and Data Scientist with experience in api, data analysis and reporting. Skilled in Python, SQL, Data Analysis, Machine Learning, LLM, React, Node Azure and AWS. [Portfolio](https://github.com/r-rahulsingh/Portfolio/blob/main/README.md)
+Hello, I'm Rahul. Experienced Developer and Data Scientist with experience in api, data analysis and reporting. Skilled in Python, SQL, Data Analysis, Machine Learning, LLM, React, Node, Azure and AWS. [Portfolio](https://github.com/r-rahulsingh/Portfolio/blob/main/README.md)
 
 - Developing and maintaining full-stack web applications.
 - Integrating AI, ML, and LLM models to enhance innovation and efficiency.
